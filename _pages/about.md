@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the KU Leuven (Belgium) and at the University of Liège. I conduct research in the field of Smart Energy Systems and on the transition towards clean and renewable energy production. 
+I am an assistant professor at the [KU Leuven](https://www.kuleuven.be) (Belgium) and at the [University of Liège](http://www.uliege.be). I conduct research in the field of Smart Energy Systems and on the transition towards clean and renewable energy production. 
 
 In the course of my work I created and lead development of various open-source modelling tools, such as ThermoCycle, Dispa-SET or GPExp. 
 
@@ -23,9 +23,8 @@ Smart Energy Systems:
 * Rural electrification and microgrids
 
 Sustainable power generation: 
-* Organic Rankine cycles
 * Combined heat & power (CHP) 
-* Industrial waste heat recovery
+* Organic Rankine cycles
 
 Heating, Refrigeration, Air Conditioning and energy in buildings:
 * Testing and modeling HVAC components: compressors, cooling coil, heat pumps.
@@ -34,21 +33,21 @@ Heating, Refrigeration, Air Conditioning and energy in buildings:
 
 Teaching
 ------
-At the University of Leuven:
+At KU Leuven:
 * Sustainable energy systems
 * Energy systems design and simulation
 
 At the University of Liège:
 * [Introduction to the dynamic modeling of thermal systems](https://www.programmes.uliege.be/archives/20132014/cocoon/en/cours/MECA0514-1.html)
-* [Applied thermodynamics. Energy conversion techniques. Thermic power stations](https://www.programmes.uliege.be/archives/20162017/cocoon/en/cours/MECA0459-1.html)
+* [Applied thermodynamics. Energy conversion techniques. Thermal power plants](https://www.programmes.uliege.be/archives/20162017/cocoon/en/cours/MECA0459-1.html)
 
 
 Open-Source Projects
 ------
-* [Dispa-SET: Power market model including unit commitment and optimal dispatch](http://www.dispaset.eu/)
-* [GPExp: A Gaussian Processes framework for the analysis of Experimental Data](https://github.com/squoilin/GPExp)
-* [ThermoCycle: A Modelica Library for the dynamic modelling of thermal systems](http://www.thermocycle.net/)
-* [CoolProp: An open-source, cross-platform, free property database based in C++ that includes pure fluids, pseudo-pure fluids, and humid air properties.](http://coolprop.sourceforge.net/index.html)
+* [Dispa-SET](http://www.dispaset.eu/): Power market model including unit commitment and optimal dispatch
+* [GPExp](https://github.com/squoilin/GPExp): A Gaussian Processes framework for the analysis of Experimental Data
+* [ThermoCycle](http://www.thermocycle.net/): A Modelica Library for the dynamic modelling of thermal systems
+* [CoolProp](http://coolprop.sourceforge.net/index.html): An open-source, cross-platform, free property database based in C++ that includes pure fluids, pseudo-pure fluids, and humid air properties.
 
 
 Contact
