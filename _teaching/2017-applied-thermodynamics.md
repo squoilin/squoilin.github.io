@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/applied-thermodynamics
 venue: "University of Liège"
-date: 2017
+date: 2017-10-01
 location: "Arlon, Belgium"
 ---
 
