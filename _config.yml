@@ -76,15 +76,14 @@ analytics:
     tracking_id          :
 
 
-# Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sylvain Quoilin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Smart Energy Systems, Heat Integration, Renewable Energy"
+  location         : "Belgium"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=WVDLdN4AAAAJ&hl=en"
+  email            : "squoilin@uliege.be"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,24 +91,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "squoilin"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/sylvainquoilin/"
+  orcid            : "https://orcid.org/0000-0002-2064-209X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "squoilin"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : 
+
 
 
 # Reading Files
