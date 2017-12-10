@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Sylvain Quoilin"
   avatar           : "sqprofile.png"
-  bio              : "Assistant Professor in Smart Energy Systems: Renewable energies, heat integration, clean power generation, modelling tools"
+  bio              : "Assistant Professor in Smart Energy Systems"
   location         : "Belgium"
-  employer         :
+  employer         : "KU Leuven"
   googlescholar    : "https://scholar.google.com/citations?user=WVDLdN4AAAAJ&hl=en"
   email            : "squoilin@uliege.be"
   uri              :
