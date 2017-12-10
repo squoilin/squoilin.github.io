@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/dynamic-modeling
 venue: "University of Liège"
-date: 2013 - Now
+date: 2013
 location: "Liège, Belgium"
 ---
 
