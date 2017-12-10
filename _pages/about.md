@@ -35,7 +35,7 @@ Teaching
 ------
 At KU Leuven:
 * Sustainable energy systems
-* Energy systems design and simulation
+* [Energy systems design and simulation](https://onderwijsaanbod.kuleuven.be/syllabi/n/ZA0042N.htm#activetab=doelstellingen_idp13939632)
 
 At the University of Liège:
 * [Introduction to the dynamic modeling of thermal systems](https://www.programmes.uliege.be/archives/20132014/cocoon/en/cours/MECA0514-1.html)

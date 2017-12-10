@@ -8,6 +8,7 @@ date: 2017-10-01
 location: "Arlon, Belgium"
 ---
 
+Course content:
 * revision of the analysis of thermodynamic steam and gas cycles
 * gas turbine technology
 * optimisation of combined gas/steam turbine cycles
