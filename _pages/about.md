@@ -16,16 +16,16 @@ I conduct research in the field of Smart Energy Systems, mainly focused on the t
 Research topics
 ------
 
-Smart Energy Systems:
+Smart Energy Systems:  
 * Modelling the deployment of high shares of renewables
-* Heat integration into energy systems
+* Heat integration into energy systems  
 * Rural electrification and microgrids
 
-Sustainable power generation: 
+Sustainable power generation:   
 * Combined heat & power (CHP) 
 * Organic Rankine cycles
 
-Heating, Refrigeration, Air Conditioning and energy in buildings:
+Heating, Refrigeration, Air Conditioning and energy in buildings:  
 * Testing and modeling HVAC components: compressors, cooling coil, heat pumps.
 * Demand response through thermal appliances
 
@@ -52,11 +52,11 @@ Open-Source Projects
 Contact
 -----
 
-Université de Liège
-Energy Systems Research Unit
-Campus du Sart Tilman, Quartier Polytech 1
-Allée de la Découverte 17 (Bâtiment B49)
-B–4000 LIEGE (BELGIUM)
-Phone  : +32 4 366 48 22
-Fax    : +32 4 366 48 12
+Université de Liège  
+Energy Systems Research Unit  
+Campus du Sart Tilman, Quartier Polytech 1  
+Allée de la Découverte 17 (Bâtiment B49)  
+B–4000 LIEGE (BELGIUM)  
+Phone  : +32 4 366 48 22  
+Fax    : +32 4 366 48 12  
 
