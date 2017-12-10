@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the [KU Leuven](https://www.kuleuven.be) (Belgium) and at the [University of Liège](http://www.uliege.be). I conduct research in the field of Smart Energy Systems and on the transition towards clean and renewable energy production. 
+I am an assistant professor at the [KU Leuven](https://www.kuleuven.be) (Belgium) and at the [University of Liège](http://www.uliege.be). 
 
-In the course of my work I created and lead development of various open-source modelling tools, such as ThermoCycle, Dispa-SET or GPExp. 
-
+I conduct research in the field of Smart Energy Systems, mainly focused on the transition towards clean and renewable energy production. In the course of my work I created and lead development of various open-source modelling tools, such as ThermoCycle, Dispa-SET or GPExp. These activities are further detailed hereunder.
 
 
 Research topics
@@ -54,10 +53,16 @@ Contact
 -----
 
 Université de Liège
+
 Energy Systems Research Unit
+
 Campus du Sart Tilman, Quartier Polytech 1
-Allée de la Découverte 17 (Bâtiment B49)                                                 
-B–4000 LIEGE (BELGIUM)                           
-Phone  : +32 4 366 48 22                         
+
+Allée de la Découverte 17 (Bâtiment B49)
+
+B–4000 LIEGE (BELGIUM)
+
+Phone  : +32 4 366 48 22
+
 Fax    : +32 4 366 48 12
 
