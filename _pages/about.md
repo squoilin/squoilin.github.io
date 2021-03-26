@@ -8,26 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the [KU Leuven](https://www.kuleuven.be) (Belgium) and at the [University of Liège](http://www.uliege.be). 
+I am an assistant professor at [KU Leuven](https://www.kuleuven.be) (Belgium) and an FNRS Research Associate (Chercheur Qualifié) at the [University of Liège](http://www.uliege.be). 
 
-I conduct research in the field of Smart Energy Systems, mainly focused on the transition towards clean and renewable energy production. In the course of my work I created and lead development of various open-source modelling tools, such as ThermoCycle, Dispa-SET or GPExp. These activities are further detailed hereunder.
+I conduct research in the field of Integrated Energy Systems, mainly focused on the transition towards clean and renewable energy production. In the course of my work I created and lead development of various open-source modelling tools, such as ThermoCycle, Dispa-SET or ProsumPy. These activities are further detailed hereunder.
 
 
 Research topics
 ------
-
-Smart Energy Systems:  
+Integrated Energy Systems:
 * Modelling the deployment of high shares of renewables
-* Heat integration into energy systems  
-* Rural electrification and microgrids
+* Heat integration into energy systems
+* Multi-energy systems & sector coupling
 
-Sustainable power generation:   
-* Combined heat & power (CHP) 
+Sustainable power conversion:
+* Combined heat & power (CHP)
 * Organic Rankine cycles
+* Heat pumps
 
-Heating, Refrigeration, Air Conditioning and energy in buildings:  
-* Testing and modeling HVAC components: compressors, cooling coil, heat pumps.
-* Demand response through thermal appliances
+International development:
+* Rural electrification pathways and microgrids
+* Tailored models for energy planning in developing countries
 
 
 Teaching
