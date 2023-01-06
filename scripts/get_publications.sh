@@ -12,3 +12,5 @@ cat publ_header.md | cat - temp3.html | cat - publ_footer.md > ../_pages/publica
 
 rm -f temp.html temp2.html temp3.html wget-log
 
+git commit -a -m"Updating publications"
+git push
