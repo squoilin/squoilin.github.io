@@ -6,6 +6,8 @@ wget -O temp.html "https://orbi.uliege.be/reports?action=1&conjunction_1=AND&fie
 head -n -1 temp.html > temp2.html
 tail -n +2 temp2.html > temp3.html
 
+#lynx -dump temp3.html    
+
 cat publ_header.md | cat - temp3.html | cat - publ_footer.md > ../_pages/publications.md             # change scripts by _pages
 
 rm -f temp.html temp2.html temp3.html wget-log
