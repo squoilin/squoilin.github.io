@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sylvain Quoilin"
 title_separator          : "-"
 name                     : &name "Sylvain Quoilin"
-description              : &description "Assistant professor at KU Leuven"
+description              : &description "FNRS Research Associate and assistant professor"
 url                      : https://squoilin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -84,7 +84,7 @@ author:
   location         : 
   googlescholar    : 
   email            : "squoilin@uliege.be"
-  uri              :
+  uri              : "https://www.ises.uliege.be/"
   bitbucket        :
   codepen          :
   dribbble         :
