@@ -10,7 +10,7 @@ tail -n +2 temp2.html > temp3.html
 
 cat publ_header.md | cat - temp3.html | cat - publ_footer.md > ../_pages/publications.md             # change scripts by _pages
 
-rm -f temp.html temp2.html temp3.html wget-log
-
 git commit -a -m"Updating publications"
 git push
+
+rm -f temp.html temp2.html temp3.html wget-log
