@@ -8,22 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at [KU Leuven](https://www.kuleuven.be) (Belgium) and an FNRS Research Associate (Chercheur Qualifié) at the [University of Liège](http://www.uliege.be), head of the [Integrated and Sustainable Energy Systems (ISES) Research group](https://www.ises.uliege.be/)
+I am an FNRS Research Associate (Chercheur Qualifié) and professor at the [University of Liège](http://www.uliege.be), head of the [Integrated and Sustainable Energy Systems (ISES) Research group](https://www.ises.uliege.be/)
 
 I conduct research in the field of Integrated Energy Systems, mainly focused on the transition towards clean and renewable energy production. In the course of my work I created and lead development of various open-source modelling tools, such as ThermoCycle, Dispa-SET or ProsumPy. These activities are further detailed hereunder.
 
 
 Research topics
 ------
-Integrated Energy Systems:
-* Modelling the deployment of high shares of renewables
-* Heat integration into energy systems
-* Multi-energy systems & sector coupling
-
-Sustainable power conversion:
-* Combined heat & power (CHP)
-* Organic Rankine cycles
-* Heat pumps
+Energy planning:
+* Energy sufficiency
+* Heat integration into energy systems and deployment of renewables
+* Integrated energy systems & sector coupling
 
 International development:
 * Rural electrification pathways and microgrids

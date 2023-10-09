@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Sylvain Quoilin is an assistant professor in the field of Energy Systems. His research focuses on the optimization of power systems, on the optimal integration of heating appliances and on the integration of high shares of Renewables. His teaching activities include various classes linked to the modeling of energy systems as well as the supervision of PhD students and several master students each year. He gained a strong international experience with several stays in foreign research groups (MIT, TU München, University of Antwerp) working on similar topics. In particular, he developed a very strong collaboration with EU institutions by spending three years at the Joint Research Centre of the European Commission, working on the modelling of solar home batteries, self-consumption potentials and EU power dispatch.  
-He is the author and co-author of more than 100 publications in conference proceeding and journals. He is also the main developer of various open-source energy modelling tools, including a toolbox to simulate prosumers' behaviour and a power system model used to evaluate flexibility in EU power systems. The tools are currently used by various institutions in the scope of ongoing studies on PV self-consumption, demand response, energy system flexibility assessment, etc.
+Sylvain Quoilin is professor in the field of Energy Systems and head of the Integrated and Sustainable Energy Systems (ISES) research group. His research focuses on the optimization of energy systems, on the modeling of energy sufficiency and human behavior, and on the optimal integration of renewables, heating & cooling appliciances and vehicles into the grids. His teaching activities include various classes linked to the modeling of energy systems as well as the supervision of PhD students and several master students each year. He gained a significant international experience with several stays in foreign research groups (MIT, TU München, University of Antwerp) working on similar topics. In particular, he developed a very strong collaboration with EU institutions by spending three years at the Joint Research Centre of the European Commission, working on the modelling of solar home batteries, self-consumption potentials and EU power dispatch.  
+He is the author and co-author of more than 200 publications in conference proceeding and journals. He is also the main developer of various open-source energy modelling tools and an active member of various organizations promoting open-sciences practices in scientific research.
 
 Education
 ======
@@ -26,6 +26,7 @@ Previous long duration research stays
 
 Activities in international development
 ======
+* Haiti: Capacity building on PV systems and their integration
 * Bolivia: Research on PV micro-grids for rural electrification (in collaboration with Universidad Mayor de San Simon)
 * Bénin: Collaborative Project aiming at setting up a "Master's degree in Renewable Energy" at the University of Cotonou
 * Lesotho: Rural electrification with hybrid concentrating solar power plants
