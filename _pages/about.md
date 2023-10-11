@@ -10,7 +10,7 @@ redirect_from:
 
 I am an FNRS Research Associate (Chercheur Qualifié) and professor at the [University of Liège](http://www.uliege.be), head of the [Integrated and Sustainable Energy Systems (ISES) Research group](https://www.ises.uliege.be/)
 
-I conduct research in the field of Integrated Energy Systems, mainly focused on the transition towards clean and renewable energy production. In the course of my work I created and lead development of various open-source modelling tools, such as ThermoCycle, Dispa-SET or ProsumPy. These activities are further detailed hereunder.
+I conduct research in the field of Integrated Energy Systems, mainly focused on the transition towards clean and renewable energy production. In the course of my work I created and lead development of various open-source modelling tools, such as MicrogrdsPy, Dispa-SET or ProsumPy. These activities are further detailed hereunder.
 
 
 Research topics
@@ -25,17 +25,6 @@ International development:
 * Tailored models for energy planning in developing countries
 
 
-Teaching
-------
-At KU Leuven:
-* Sustainable energy systems
-* [Energy systems design and simulation](https://onderwijsaanbod.kuleuven.be/syllabi/n/ZA0042N.htm#activetab=doelstellingen_idp13939632)
-
-At the University of Liège:
-* [Introduction to the dynamic modeling of thermal systems](https://www.programmes.uliege.be/archives/20132014/cocoon/en/cours/MECA0514-1.html)
-* [Applied thermodynamics. Energy conversion techniques. Thermal power plants](https://www.programmes.uliege.be/archives/20162017/cocoon/en/cours/MECA0459-1.html)
-
-
 Open-Source Projects
 ------
 * [Dispa-SET](http://www.dispaset.eu/): Power market model including unit commitment and optimal dispatch
@@ -46,7 +35,6 @@ Open-Source Projects
 
 Contact
 -----
-
 Université de Liège  
 Energy Systems Research Unit  
 Campus du Sart Tilman, Quartier Polytech 1  
