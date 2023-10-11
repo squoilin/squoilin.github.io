@@ -8,6 +8,8 @@ date: 2017-10-01
 location: "Arlon, Belgium"
 ---
 
+This course was given at the University of Liege in 2017 and 2018 on the campus of Arlon.
+
 Course content:
 * revision of the analysis of thermodynamic steam and gas cycles
 * gas turbine technology

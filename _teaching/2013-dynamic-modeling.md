@@ -8,8 +8,7 @@ date: 2013-10-01
 location: "Liège, Belgium"
 ---
 
-Current energy conversion systems are submitted to a growing demand in terms of flexibility. This flexibility requires an accurate characterization of the components dynamic behavior under varying boundary conditions, which in turns allows to set up optimal control strategies.
-This course is an introduction to the dynamic modeling of thermal systems. It teaches the bases of the Modelica language through theoretical and exercise classes.
+This course was given at the University of Liege from 2013 to 2018. It is an introduction to the dynamic modeling of thermal systems. It teaches the bases of the Modelica language through theoretical and exercise classes.
 
 Learning unit contents
 ======
@@ -25,3 +24,6 @@ At the end of the course, the student will be able to:
 *Use a reference language (Modelica) as passive (use and interconnexion of already-available components) or active (develpments of new models) user.
 *Understand and describe the causal relations occuring in thermodynamic systems, and control them using linear controllers.
 
+Course Material
+=======
+The slides of the course can be downloaded [here](http://labothap.squoilin.eu/courses/2017_modelica.rar).
