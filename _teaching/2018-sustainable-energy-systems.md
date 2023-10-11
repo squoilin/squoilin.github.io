@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/sustainable-energy-systems
 venue: "KU Leuven"
-date: 2018-2023
+date: 2018-10-01
 ---
 
 Course information
