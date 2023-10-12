@@ -8,7 +8,7 @@ date: 2013-10-01
 location: "Liège, Belgium"
 ---
 
-This course was given at the University of Liege from 2013 to 2018. It is an introduction to the dynamic modeling of thermal systems. It teaches the bases of the Modelica language through theoretical and exercise classes.
+The course was given at the University of Liege from 2013 to 2018. It teaches the bases of the Modelica language through theoretical and exercise classes, focusing on thermal systems.
 
 Learning unit contents
 ======

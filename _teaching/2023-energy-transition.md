@@ -14,8 +14,6 @@ The course was created in 2023 for the Master in Energy Engineering
 
 Learning unit contents
 =======
-The course provides an introduction to state-of-the-art modeling approaches for the energy transition in Belgium, in Europe and in the World. It goes beyond the sole consideration of electric grids by focusing on multi-energy systems, also referred to as integrated or whole energy systems.
-
 Well-known energy scenarios and pathways (IEA, EU Roadmaps, IPCC scenarios, ENTSO-E TYNDP, etc.) are presented and related to their specific model formulation. Through multiple examples, the students learn to select the most appropriate model to answer a specific question and the trade-off between computational tractability and spatial, temporal, sectoral and technological granularity.
 
 Societal aspects not directly linked to the energy sector, such as climate issues, macro-economic considerations, equity issues, the finiteness of energy and mineral resources, political levers for action or energy sufficiency, are also evoked and integrated in a qualitative or quantitative way into the analysis of future scenarios.

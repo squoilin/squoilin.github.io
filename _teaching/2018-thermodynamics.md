@@ -8,7 +8,7 @@ date: 2018-10-01
 location: "KU Leuven"
 ---
 
-This course was given at KU leuven from 2018 to 2022 (code B-KUL-Z12831).
+The course was given at KU leuven from 2018 to 2022 (code B-KUL-Z12831).
 
 Course content
 =======
