@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Sylvain Quoilin is professor in the field of Energy Systems and head of the Integrated and Sustainable Energy Systems (ISES) research group. His research focuses on the optimization of energy systems, on the modeling of energy sufficiency and human behavior in the EU and in developing countries, and on the optimal integration of renewables, heating & cooling and vehicles into the grids. He has gained a significant international experience with several stays in foreign research groups (MIT, TU München, University of Antwerp) working on similar topics. In particular, he has developed a very strong collaboration with EU institutions by spending three years at the Joint Research Centre of the European Commission, working on the modelling of solar home batteries, self-consumption and EU energy system adequacy.
+Sylvain Quoilin is professor in the field of Energy Systems and head of the Integrated and Sustainable Energy Systems (ISES) research group. His research focuses on the optimization of energy systems with the integration of renewables, heating & cooling and vehicles into the grids. He also develops an intersdisciplinary research on energy sufficiency, both in the EU and in developing countries, by integrating human behavior in demand modeling. 
+He has gained a significant international experience with several stays in foreign research groups (MIT, TU München, University of Antwerp, KU Leuven) working on similar topics. He also spent three years at the Joint Research Centre of the European Commission, working on residential self-consumption and on the development EU adequacy and flexibility assessment models.
 He is the author and co-author of more than 200 publications in conference proceeding and journals. He is also the main developer of various open-source energy modelling tools and an active member of organizations promoting open-science practices in scientific research.
 
 Education
