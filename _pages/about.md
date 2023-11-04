@@ -21,12 +21,13 @@ Energy planning:
 * Integrated energy systems & sector coupling
 
 International development:
+* Energy transition in developing countries
 * Rural electrification pathways and microgrids
-* Tailored models for energy planning in developing countries
 
 
 Open-Source Projects
 ------
+* [RAMP](https://rampdemand.org/): Software suite for the stochastic simulation of user-driven energy demand time series
 * [Dispa-SET](http://www.dispaset.eu/): Power market model including unit commitment and optimal dispatch
 * [GPExp](https://github.com/squoilin/GPExp): A Gaussian Processes framework for the analysis of Experimental Data
 * [ThermoCycle](http://www.thermocycle.net/): A Modelica Library for the dynamic modelling of thermal systems
