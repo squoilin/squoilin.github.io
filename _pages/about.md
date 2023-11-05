@@ -36,11 +36,10 @@ Open-Source Projects
 
 Contact
 -----
-Université de Liège  
-Energy Systems Research Unit  
-Campus du Sart Tilman, Quartier Polytech 1  
-Allée de la Découverte 17 (Bâtiment B49)  
-B–4000 LIEGE (BELGIUM)  
-Phone  : +32 4 366 48 22  
-Fax    : +32 4 366 48 12  
+Université de Liège 
+Energy Systems Research Unit 
+Campus du Sart Tilman, Quartier Polytech 1 
+Allée de la Découverte 17 (Bâtiment B49) 
+B–4000 LIEGE (BELGIUM) 
+Phone  : +32 4 366 48 22 
 
