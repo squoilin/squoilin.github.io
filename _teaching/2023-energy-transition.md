@@ -12,6 +12,8 @@ The course provides an introduction to state-of-the-art modeling approaches for 
 
 The course was created in 2023 for the Master in Energy Engineering
 
+The official web page of the course is available [here](https://www.programmes.uliege.be/cocoon/20232024/cours/ENRG0006-1.html).
+
 Learning unit contents
 =======
 Well-known energy scenarios and pathways (IEA, EU Roadmaps, IPCC scenarios, ENTSO-E TYNDP, etc.) are presented and related to their specific model formulation. Through multiple examples, the students learn to select the most appropriate model to answer a specific question and the trade-off between computational tractability and spatial, temporal, sectoral and technological granularity.
