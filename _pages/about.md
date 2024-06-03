@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an FNRS Research Associate (Chercheur Qualifié) and professor at the [University of Liège](http://www.uliege.be), head of the [Integrated and Sustainable Energy Systems (ISES) Research group](https://www.ises.uliege.be/)
+I am an FNRS Research Associate (Chercheur Qualifié) and Associate Professor at the [University of Liège](http://www.uliege.be), head of the [Integrated and Sustainable Energy Systems (ISES) Research group](https://www.ises.uliege.be/)
 
 I conduct research in the field of Integrated Energy Systems, mainly focused on the transition towards clean and renewable energy production. In the course of my work I created and lead the development of various open-source modelling tools, such as MicrogridsPy, Dispa-SET or ProsumPy. 
 
