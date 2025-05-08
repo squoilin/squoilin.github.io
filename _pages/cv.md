@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Sylvain Quoilin is professor in the field of Energy Systems and head of the ISES research group at the University of Liege. His research focuses on the optimization of energy systems with the integration of renewables, heating & cooling and vehicles into the grids. He also develops an intersdisciplinary research on energy sufficiency, both in the EU and in developing countries, by integrating human behavior in demand modeling. 
+Sylvain Quoilin is a professor in the field of Energy Systems and leads the ISES research group at the University of Liège. His research focuses on modeling the energy transition, including the integration of renewables, heating and cooling systems, and vehicles into energy grids. He also conducts interdisciplinary research on energy sufficiency, both in the EU and in developing countries, by incorporating human behavior into demand modeling.
 
-He has gained a significant international experience in foreign research groups (MIT, TU München, University of Antwerp, KU Leuven) working on similar topics. He also spent three years at the Joint Research Centre of the European Commission, working on residential self-consumption and on the development EU adequacy and flexibility assessment models.
+He has acquired substantial international experience through positions at leading institutions, including MIT, TU München, KU Leuven, and the Joint Research Centre of the European Commission.
 
-He is the author and co-author of more than 200 publications in conference proceeding and journals. He leads the development of various open-source energy modelling tools and he is an active member of organizations promoting open-science practices in scientific research.
+He is the author and co-author of more than 150 publications in conference proceeding and journals. He leads the development of various open-source energy modelling tools and he is an active member of organizations promoting open-science practices in scientific research.
 
 Education
 ======
@@ -21,10 +21,11 @@ Education
 * M.S. in Social Sciences (orientation : Population & Development)
 * Ph.D in Applied Sciences
 
-Long duration research stays
+Long duration research stays and positions
 ======
 * Massachussetts Institute of Technology (MIT)
 * Technical University of Munich
+* KU Leuven
 * Joint Research Centre, EU Commission
 
 Activities in international development
