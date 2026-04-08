@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<iframe src="https://mastodon.energy/@squoilin/116371071678151706/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="100%" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.energy/embed.js" async="async"></script>
+
 <iframe src="https://mastodon.energy/@squoilin/116263617211727165/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="100%" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.energy/embed.js" async="async"></script>
 
 <iframe src="https://mastodon.energy/@squoilin/114721579761653178/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="100%" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.energy/embed.js" async="async"></script>
