@@ -30,8 +30,9 @@ Open-Source Projects
 * [RAMP](https://rampdemand.org/): Software suite for the stochastic simulation of user-driven energy demand time series
 * [Dispa-SET](http://www.dispaset.eu/): Power market model including unit commitment and optimal dispatch
 * [GPExp](https://github.com/squoilin/GPExp): A Gaussian Processes framework for the analysis of Experimental Data
-* [ThermoCycle](http://www.thermocycle.net/): A Modelica Library for the dynamic modelling of thermal systems
+* [ThermoCycle](https://thermocycle.squoilin.eu/): A Modelica Library for the dynamic modelling of thermal systems
 * [CoolProp](http://coolprop.sourceforge.net/index.html): An open-source, cross-platform, free property database based in C++ that includes pure fluids, pseudo-pure fluids, and humid air properties.
+* [Coolsolve](https://coolsolve.squoilin.eu/): An open-source equation solver based on CoolProp, compatible with the EES language
 
 
 Contact
